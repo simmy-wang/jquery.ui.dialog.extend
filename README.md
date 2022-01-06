@@ -1,6 +1,7 @@
 # jquery.ui.dialog.extend
 A jQuery UI extension for Dialog to only show dialog in center of browser window, and only can scroll the dialog display area, not scrolling in dialog content div.
 
+
 # Example
 There is an example you can find in the source: https://github.com/xinwangw/jquery.ui.dialog.extend/tree/master/jQueryUIDialogExtend/WebContent
 
